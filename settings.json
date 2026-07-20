@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BugGhay",
+    "username": "CrackerFL",
     "password": "",
     "type": "offline"
   },
@@ -23,7 +23,7 @@
       "password": "HAxBOT77"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
     "chat-messages": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "/register HAxBOT77 HAxBOT77",
+        "/register HAxBOT77 HAxBOT77",
+        "/register HAxBOT77 HAxBOT77"
       ]
     },
     "chat-log": true,
@@ -49,11 +49,11 @@
       "speed": 3000
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": false,
+      "enabled": true,
       "interval": 10000
     }
   },
